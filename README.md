@@ -12,7 +12,7 @@ This project helps you learn **Building and Deploying an ML Model** using a simp
 
 ---
 
-## 📊 Problem Statement
+<!-- ## 📊 Problem Statement
 
 Predict if a person is diabetic based on:
 - Pregnancies
@@ -95,5 +95,5 @@ kubectl apply -f diabetes-prediction-model-deployment.yaml
 
 Created by `ABHISHEK VEERAMALLA`
 
-Subscribe for more DevOps + MLOps content on the YouTube Channel - `Abhishek.Veeramalla`
+Subscribe for more DevOps + MLOps content on the YouTube Channel - `Abhishek.Veeramalla` -->
 
